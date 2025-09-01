@@ -1,0 +1,23 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# IDE
+/.idea/
+/.vscode/
+/.project
+/.classpath
+/.settings/
+/target/
+
+# STS
+.springBeans
+
+# OS
+.DS_Store
+Thumbs.db
