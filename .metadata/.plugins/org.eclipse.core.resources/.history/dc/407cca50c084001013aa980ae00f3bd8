@@ -1,0 +1,13 @@
+package payeasy.merchant;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PayeasyBillService1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PayeasyBillService1Application.class, args);
+	}
+
+}

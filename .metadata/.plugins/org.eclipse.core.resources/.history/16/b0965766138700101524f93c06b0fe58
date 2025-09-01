@@ -1,0 +1,5 @@
+package payeasy.bill.web;
+
+public class BillController {
+
+}

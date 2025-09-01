@@ -1,0 +1,5 @@
+package payeasy.bill.repo;
+
+public interface BillRepository {
+
+}

@@ -1,0 +1,5 @@
+package payeasy.bill.entity;
+
+public class Bill {
+
+}

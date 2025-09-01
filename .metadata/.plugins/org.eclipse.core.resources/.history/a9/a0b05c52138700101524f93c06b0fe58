@@ -1,0 +1,5 @@
+package payeasy.bill.client;
+
+public interface WalletClient {
+
+}
